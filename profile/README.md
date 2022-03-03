@@ -1,3 +1,5 @@
-<p align="center">
-  <img alt="Micra" src="https://raw.githubusercontent.com/micrajs/.github/latest/assets/micra-full-logo.png">
-</p>
+### Welcome to Micra!
+
+#### [💬  Discussions](https://github.com/micrajs/micrajs/discussions)
+#### [🗂️  Proposal board](https://github.com/orgs/micrajs/projects/2/views/2)
+#### [💾  Backlog boards](https://github.com/orgs/micrajs/projects/3)
