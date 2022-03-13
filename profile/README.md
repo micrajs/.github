@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/micrajs/.github/blob/latest/SUPPORT.md">Support</a> • 
-  <a href="https://github.com/micrajs/.github/blob/latest/CODE_OF_CONDUCT.md">Code of Conduct</a> • 
-  <a href="https://github.com/micrajs/.github/blob/latest/CONTRIBUTING.md">Contributing</a>
+  <a href="https://github.com/micrajs/.github/blob/latest/SUPPORT.md">Support</a> •
+  <a href="https://github.com/micrajs/.github/blob/latest/CONTRIBUTING.md">Contributing</a> •
+  <a href="https://github.com/micrajs/.github/blob/latest/CODE_OF_CONDUCT.md">Code of Conduct</a>
 </p>
 
 #### Discussions
