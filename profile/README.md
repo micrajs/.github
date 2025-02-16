@@ -2,8 +2,6 @@
   <img src="https://raw.githubusercontent.com/micrajs/micrajs/live/.assets/logo.png" width="25%">
 </p>
 
-<h1 align="center">Micra</h1>
-
 <p align="center">
   <a href="https://github.com/micrajs/micra/blob/latest/docs">Documentation</a> •
   <a href="https://github.com/micrajs/micra/blob/latest/CONTRIBUTING.md">Contributing</a> •
