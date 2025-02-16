@@ -2,28 +2,38 @@
   <img src="https://raw.githubusercontent.com/micrajs/micrajs/live/.assets/logo.png" width="25%">
 </p>
 
+<h1 align="center">Micra</h1>
+
 <p align="center">
-  <a href="https://github.com/micrajs/.github/blob/latest/SUPPORT.md">Support</a> •
-  <a href="https://github.com/micrajs/.github/blob/latest/CONTRIBUTING.md">Contributing</a> •
-  <a href="https://github.com/micrajs/.github/blob/latest/CODE_OF_CONDUCT.md">Code of Conduct</a>
+  <a href="https://github.com/micrajs/micra/blob/latest/docs">Documentation</a> •
+  <a href="https://github.com/micrajs/micra/blob/latest/CONTRIBUTING.md">Contributing</a> •
+  <a href="https://github.com/micrajs/micra/blob/latest/CODE_OF_CONDUCT.md">Code of Conduct</a>
 </p>
 
-#### Discussions
+Welcome to the official GitHub organization for **Micra** – a flexible, modular, and type-safe JavaScript framework built for modern applications. Whether you're developing browser apps, Node.js servers, CLI tools, or any other JavaScript project, Micra offers a consistent, scalable foundation to empower your work.
 
-- **[#️⃣ General](https://github.com/micrajs/community/discussions/categories/general):** Chat that doesn't fit anywhere else
-- **[💡 Feature requests](https://github.com/micrajs/community/discussions/categories/feature-requests):** Here you can share ideas and request new features
-- **[📝 Proposals](https://github.com/micrajs/community/discussions/categories/proposals):** This is where the core team posts proposals of new APIs and entities for the framework
-- **[❓ Q&A](https://github.com/micrajs/community/discussions/categories/q-a):** Ask the community for help
-- **[🙌 Show and tell](https://github.com/micrajs/community/discussions/categories/show-and-tell):** Show off something you've made
+## Why Micra?
+- ✨ **Modular Design**: Pick and choose the modules you need, and extend them as your project grows.
+- ⚡ **Type-Safe with TypeScript**: Built with TypeScript at its core, ensuring reliability and developer confidence.
+- 🌐 **Platform-Agnostic**: From web to CLI to server, Micra adapts to your environment.
+- 🔧 **Extensible and Customizable**: Use our core abstractions or build your own with ease.
+- 📊 **Built for Scale**: With features like dependency injection, lifecycle management, and telemetry, your apps are ready to grow.
 
-#### Bugs
+## Getting Started
+To dive into the Micra Framework, head over to our main repository:
 
-If you wish to report a bug, please [create an issue on the community repository](https://github.com/micrajs/community/issues/new/choose). Before creating, [please take a look](https://github.com/micrajs/community/issues?q=is%3Aopen+is%3Aissue+label%3A%22Type%3A+fix%22) to see if the issue has already been raised.
+[🔗 Micra Framework Repository](https://github.com/micrajs/micra)
 
-#### Backlog and Progress
+Here you'll find the latest implementation, comprehensive documentation, and everything you need to get started.
 
-If you wish to track issues or the progress of any given project, take a look at our project boards:
+---
 
-- **[🗂️  Proposal board](https://github.com/orgs/micrajs/projects/2/views/2):** Here you can see the progress of all ongoing projects and ideas the team is working on.
-- **[💾  Backlog boards](https://github.com/orgs/micrajs/projects/3):** Here you can see the backlog and progress of issues
+## Join Our Community
+Micra is open-source and community-driven! We welcome contributions, feedback, and ideas from developers worldwide.
 
+- 🛠️ [Contribute to Micra](https://github.com/micrajs/micra/blob/latest/CONTRIBUTING.md)
+- 📃 [Read the Documentation](https://github.com/micrajs/micra/blob/latest/docs)
+- 🛏️ [Join Discussions](https://github.com/micrajs/micra/discussions)
+- 📑 [Code of Conduct](https://github.com/micrajs/micra/blob/latest/CODE_OF_CONDUCT.md)
+
+Let's build the future of JavaScript applications together! ✨

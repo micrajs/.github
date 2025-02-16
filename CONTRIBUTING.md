@@ -1,34 +1,113 @@
 # Contributing
 
-Thanks for choosing to contribute!
+Hey there! We're so excited that you want to help make our framework even better. Whether you're a developer, designer, writer, or just someone with a great idea, there's a place for you here. Let's build something amazing together!
 
-The following are a set of guidelines to follow when contributing to this project.
+---
 
-## Code Of Conduct
+## Getting Started
 
-This project adheres to Micra's [code of conduct](./CODE_OF_CONDUCT.md). By participating,
-you are expected to uphold this code. Please report unacceptable behavior to
-[contact@micra.dev](mailto:contact@micra.dev).
+Ready to dive in? Here's how you can get started:
 
-## Need help?
+1. Check out our [**Code of Conduct**](./CODE_OF_CONDUCT.md) so we can keep this space welcoming and inclusive.
+2. Browse our [**Contribution Guidelines**](./docs/contributing) to learn how to submit your work.
+3. Take a peek at open [**Issues**](https://github.com/micrajs/micra/issues) or share your ideas in [GitHub Discussions](https://github.com/micrajs/micra/discussions).
+   - Look for issues labeled [Community: good first issue](https://github.com/micrajs/micra/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22Community%3A%20good%20first%20issue%22) or [Community: help wanted](https://github.com/micrajs/micra/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22Community%3A%20help%20wanted%22) if you're just getting started!
+4. **Jump in and start contributing!**
 
-Take a look at our [support guide](./SUPPORT.md)! There you can find useful links and general guidelines on how and where to find stuff.
+---
 
-## Code Reviews
+## Ways to Contribute:
 
-All submissions should come in the form of pull requests and need to be reviewed
-by project's core team. Read [GitHub's pull request documentation](https://help.github.com/articles/about-pull-requests/)
-for more information on sending pull requests.
+Not sure where to begin? Don’t sweat it! There are tons of ways to pitch in. Check out the ideas below, and if you’re stuck, hop into a GitHub Discussion or drop us a line in the community channels. We’ve got your back!
 
-## From Contributor To Committer
+---
 
-We love contributions from our community! If you'd like to go beyond a contributor
-and become a part of the core team with full write access and a say in the project, you must
-be invited to the project. The existing team employ an internal nomination
-process that must reach lazy consensus (silence is approval) before invitations
-are issued. If you feel you are qualified and want to get more deeply involved,
-feel free to reach out to existing committers to have a conversation about that.
+## **[Code Contributions](./docs/contributing/Code%20Contributions.md)**
 
-## Security Issues
+- **Feature Development:** Got an idea for something awesome? Help us build it!
+- **Bug Fixes:** Spotted something not working right? Fix it up and make the framework better for everyone.
+- **Performance Enhancements:** Help our framework run smoother and faster.
+- **Refactoring:** Clean up the codebase and make it easier to work with.
+- **Security Updates:** Keep everything safe and sound by patching vulnerabilities.
 
-Security issues shouldn't be reported on this issue tracker. Instead, [file an issue to our security experts](mailto:contact@micra.dev)
+---
+
+## **[Testing and Quality Assurance](./docs/contributing/Testing%20Guidelines.md)**
+
+- **Writing Tests:** Help us cover all the bases with unit, integration, and end-to-end tests.
+- **Manual Testing:** Try out pre-releases and let us know what needs tweaking.
+- **Test Coverage Analysis:** Find and fill gaps in our test coverage.
+
+---
+
+## **Tooling and Infrastructure**
+
+- **CI/CD Improvements:** Make our pipelines faster, smarter, and more reliable.
+- **Development Tools:** Build awesome tools that help us code better, like linters or scaffolders.
+- **Package Management:** Keep our dependencies up-to-date and running smoothly.
+
+---
+
+## **Design Contributions**
+
+- **UX/UI Proposals:** Got ideas for better interfaces? Let’s hear them!
+- **Visual Assets:** Create logos, icons, or diagrams to spruce up our docs and tools.
+
+---
+
+## **Strategic Contributions**
+
+- **Roadmap Suggestions:** Share your vision for where the framework should go next.
+- **Market Analysis:** Keep us ahead of the curve with insights into similar tools.
+- **Ecosystem Growth:** Build plugins, libraries, or anything else that makes our framework shine.
+- **RFC Process:** Participate in RFC discussions and API design reviews to help shape the future of the framework. [Learn more here.](./docs/processes/RFC%20process.md)
+
+---
+
+## **[Documentation Contributions](./docs/contributing/Documentation%20Guidelines.md)**
+
+- **Technical Documentation:** Clarify APIs and write guides that make devs’ lives easier.
+- **Tutorials and Examples:** Share how-tos, videos, or sample projects.
+- **Translations:** Bring our docs to a wider audience by translating them.
+- **Onboarding Material:** Help new contributors hit the ground running.
+
+---
+
+## **Localization and Accessibility**
+
+- **Language Support:** Make the framework work for everyone, everywhere.
+- **Accessibility Enhancements:** Ensure we’re building tools that everyone can use.
+
+---
+
+## **[Community Engagement](./docs/contributing/Community%20Engagement.md)**
+
+- **Discussions and Feedback:** Jump into GitHub Discussions and share your thoughts.
+- **Community Support:** Help others with questions or issues.
+- **Advocacy and Evangelism:** Spread the word with blogs, talks, or tweets.
+- **Feedback Channels:** Got ideas to improve this process? Let us know in Discussions or through a feedback form.
+
+---
+
+## **Community Events**
+
+- **Hackathons:** Dive into an event and build something cool.
+- **Workshops and Meetups:** Host or join sessions to learn and share.
+- **Content Creation:** Write blogs, shoot videos, or share tutorials to inspire others.
+
+---
+
+## Recognizing Your Contributions
+
+We believe in celebrating our amazing contributors! Here’s how we show appreciation:
+
+- Shoutouts in release notes.
+- Inclusion in our contributors' list.
+- Highlighting exceptional work in community updates.
+
+> [!IMPORTANT]
+> Non-code contributions like testing, documentation, and community support are just as impactful and help us maintain a thriving, inclusive community!
+
+---
+
+We can’t wait to see what you contribute. Let’s build something amazing together!
